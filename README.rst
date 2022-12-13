@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+GNNgraph fork of Read the Docs tutorial
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub template includes fictional Python library, GNNgraph.py with some basic Sphinx docs.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+[The tutorial upon which this repository was based](https://docs.readthedocs.io/en/stable/tutorial/) will be useful to consult until this project is operational.
