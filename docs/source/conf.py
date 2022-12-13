@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'GNN Knowledge Graph Analytics'
+copyright = '2023, Crowdliness.ORG'
+author = 'Crowdliness.ORG'
 
 release = '0.1'
 version = '0.1.0'
