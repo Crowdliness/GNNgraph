@@ -1,10 +1,11 @@
-Welcome to the GNN Knowledge Graph Analytics Reading List!
-==========================================================
+Knowledge Graph Analytics Documentation!
+========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Graph Neural Networks are the principle route to performing knowledge graph analytics for the study of how interconnected, internetworked markets of billions of actor weigh new data and assess its informational value. 
+
+REAL knowledge is built very slowly based upon the larger crowd's discernment of what actually works in practice and what is mere hype.
+
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
