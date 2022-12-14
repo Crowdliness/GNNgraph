@@ -4,7 +4,7 @@ Usage
 Crowdliness
 -----------
 
-Crowdliness is autodiadictism raised recursively to a convoluted power.
+Crowdliness is autodiadictism raised recursively to a convoluted power ... it's like BurningMan, except maybe an earlier, more participatory proto-BurningMan that didn't even have a location yet, before BurningMan primarily attracted reporters, spectators and gawkers. Crowdliness is that thing which is so raw and nakedly intriguing that it might attract a crowd.
 
 GNNgraph illustrates how crowdly autodidactism is convoluted and recursive in nature. It's like jazz or improvisational art in that it is fundamentally autodidactic in nature. Playing involves a LOT of experimentation and practice alone ... but, at some point or when skills get to a certain level, it is transitions into something that is fundamentally about collaborative jamming.
 
