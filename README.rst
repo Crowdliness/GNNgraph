@@ -1,6 +1,8 @@
-GNNgraph fork of Read the Docs tutorial
-=======================================
+The GNNgraph fork of ReadTheDocs tutorial
+=========================================
 
-This GitHub template includes fictional Python library, GNNgraph.py with some basic Sphinx docs.
+This pre-pre-alpha GitHub template repository includes fictional Python library, GNNgraph.py with some basic Sphinx docs.
 
-The tutorial upon which this repository was based ... https://docs.readthedocs.io/en/stable/tutorial/ ... will be useful to consult until this project is operational.
+GNNgraph itself will be a knowledge-graph of executable Python tutorials for learning about work in graph neural networks.
+
+This repository itself was forked from ... https://docs.readthedocs.io/en/stable/tutorial/ ... the larger process of how readthedocs.io works and how forkable tutorial templates like this are built is interesting to anyone exploring how knowledge is shared ... even historically, long after after this project is operational.
