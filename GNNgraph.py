@@ -2,7 +2,7 @@
 GNN Graph - Python library for knowledge graph analytics.
 """
 
-__version__ = "0.1.0"
+__version__ = "PRE-0.1.0"
 
 
 class InvalidKindError(Exception):
