@@ -16,7 +16,7 @@ GNN graph involves several general steps ... of course, these steps are mallable
 
 3) As we perform knowledge graph analytics, we will find ways to improve our continuous integration and continuous deployment processes in the data API or other aspects of constructing tools for doing the analytics on these nueral network learning models.
 
-4) Finally, deploying and improving the documentation flow, as in Sphinx.ReadTheDocs.io or ReadTheDocs.io, is an important part of this ... actually the process from the start should be thought of as a sharable development project in which the goal is to add collaborators.
+4) Finally, deploying and improving the documentation flow, as in https://Sphinx.ReadTheDocs.io or ReadTheDocs.io, is an important part of this ... actually the process from the start should be thought of as a sharable development project in which the goal is to add collaborators.
 
 The GNNgraph way is entirely about being shrewdly aware of where the crowd in machine learning is going and imitating the very most interesting examples ... it's much like cooking we learn through errors in the preparation process, except this is easier in that we can just delete our errors or, with version control, retrace our steps, make revisions to build upon what did work and generally try wilder things to improve ... so what, if we don't get it right, at first -- the point is to experiment and learn. Ultimately, as the rising tide of skill levels lifts all boats. 
 
@@ -39,7 +39,7 @@ you can use the ``gnngraph.get_random_ingredients()`` function:
 .. autofunction:: gnngraph.get_random_ingredients
 
 The ``kind`` parameter should be either ``"rnn"``, ``"pytorch"``,
-or ``"gradient"``. Otherwise, :py:func:`lumache.get_random_ingredients`
+or ``"gradient"``. Otherwise, :py:func:`gnngraph.get_random_ingredients`
 will raise an exception.
 
 .. autoexception:: lumache.InvalidKindError
