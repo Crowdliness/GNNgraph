@@ -1,8 +1,18 @@
 The GNNgraph fork of ReadTheDocs tutorial
 =========================================
 
-This pre-pre-alpha GitHub template repository includes fictional Python library, GNNgraph.py with some basic Sphinx docs.
+This *Pre*-**pre**-pre-alpha GitHub template repository includes fictional Python_ library, GNNgraph.py with some basic Sphinx_ docs, using reStructuredText_ to parse this documentation is perhaps a deliberate choice ... it is not just about relying upon the very simple, highly stable docutils codebase.
 
-GNNgraph itself will be a knowledge-graph of executable Python tutorials for learning about work in graph neural networks.
+The GNNgraph project is about learning how to parse simple txt files into a visual knowledge-graph.
 
-This repository itself was forked from ... https://docs.readthedocs.io/en/stable/tutorial/ ... the larger process of how readthedocs.io works and how forkable tutorial templates like this are built is interesting to anyone exploring how knowledge is shared ... even historically, long after after this project is operational.
+We envision an annotatable, forkable knowledge-graph which would provide digraph visualization of related modeling approach for comparisons and analyis, as well as ready navigation directly to different executable Python *snackable* tutorials for learning about how different families of neural network model works ... along with an annotated bibliography of related papers with code and data in the area.
+
+This repository itself began its life as a fork the ReadTheDocsTutorial_. The larger process of how Sphinx_ works and how forkable tutorial templates like this are built is interesting to anyone exploring how knowledge is shared ... and will be historically, long after after this project is operational.
+
+.. _Python: https://www.python.org/
+
+.. _reStructuredText: https://docutils.sourceforge.io/docs/user/rst/quickref.html
+
+.. _ReadTheDocsTutorial: https://docs.readthedocs.io/en/stable/tutorial/
+
+.. _Sphinx: https://www.sphinx-doc.org/en/master/
