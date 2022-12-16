@@ -1,11 +1,13 @@
 The GNNgraph fork of ReadTheDocs tutorial
 =========================================
 
-This *Pre*-**pre**-pre-alpha GitHub template repository includes *PLANNED* `Python library`_, GNNgraph.py with some basic Sphinx_ docs.
+This *Pre*-**pre**-pre-alpha GitHub template repository includes *PLANNED* `Python library`_, GNNgraph.py with some basic Sphinx_ docs ... this is mostly about LEARNING and enjoying learning by exploring a graph, which might be like a syllabus, except that it's more convoluted, branching and tangled ... it is about LEARNING in an autodiadactic *hands on* manner OR doing things the *hard way* before making them scale OR proceeding from *first principles* or *from scratch* OR taking it *step-by-step* but paying most attention to the assumptions, rather than narrowing the choices down on a multiple choice test.
+
+The GNNgraph project is about learning how to use data APIs and then wrangling data to be able to parse simple json, csv or minimally formatted txt files into a visual, navigable knowledge-graph.
+
+It's all about the connections and the emergent patterns in data. 
 
 Obviously, using reStructuredText_ to parse this documentation is a deliberate choice which is not just about relying upon the very simple, highly stable docutils_ codebase.
-
-The GNNgraph project is about learning how to parse simple txt files into a visual knowledge-graph.
 
 We envision an annotatable, forkable knowledge-graph which would provide digraph visualization of related modeling approach for comparisons and analyis, as well as ready navigation directly to different executable Python *snackable* tutorials for learning about how different families of neural network model works ... along with an annotated bibliography of related papers with code and data in the area.
 
