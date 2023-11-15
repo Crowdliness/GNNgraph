@@ -4,7 +4,7 @@ Usage
 Crowdliness
 -----------
 
-Crowdliness is autodiadictism raised recursively to a convoluted power ... it's like BurningMan, except maybe an earlier, more participatory proto-BurningMan that didn't even have a location yet, before BurningMan primarily attracted reporters, spectators and gawkers. Crowdliness is that thing which is so raw and nakedly intriguing that it might attract a crowd.
+Crowdliness is autodiadictism raised recursively to a convoluted power ... it's like BurningMan, except maybe a more naive, more primeval, but a highly participatory proto-BurningMan that didn't even have a location yet, before BurningMan primarily attracted reporters, spectators and gawkers. Crowdliness is that thing which is so raw and nakedly intriguing that it might attract a crowd.
 
 GNNgraph illustrates how crowdly autodidactism is convoluted and recursive in nature. GNNgraph is mathy, but less like a classroom and more like jazz or improvisational abstract art in that it is fundamentally autodidactic in nature. Playing well in a sandbox involves a LOT of experimentation and practice alone ... but, at some point or when skills get to a certain level, it is transitions into something, like BurningMan Project was around 1985 or early 1986, that is fundamentally about attracting people interested in collaborative jamming.
 
